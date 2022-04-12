@@ -6,7 +6,7 @@ Web app creata nel corso di realtà aumentata di Space13. Il progetto si chiama 
 ## Funzionamento
 Ci sarà una schermata di ingresso che darà il benvenuto all'utente e presenterà lo scopo della web app. Cliccando inizia, comparirà un avviso che dirà di attivare quando il browser lo chiederà geolocalizzazione e accesso alla fotocamera. Arrivati alla schermata della realtà aumentata, si potrà vedere in basso la stazione radio più vicina e la sua distanza. Si possono vedere anche le distanze delle altre stazioni cliccando sul triangolo a sinistra. Giunti vicini ad una stazione radio, si aprirà un suo file PDF che darà ulteriori dettagli riguardo la stazione radio.
 ## Accedere al sito
-Per poter accedere al sito, basta andare al link seguente: https://soe18.github.io/stazioni-radio/
+Per poter accedere al sito, basta andare al link seguente da dispositivo mobile: https://soe18.github.io/stazioni-radio/
 
 Se si vuole si può anche scannerizzare il seguente QR Code che porta direttamente al sito:
 <img src="https://github.com/Soe18/stazioni-radio/blob/main/qrCodeToHomePage.png" width="50%">
