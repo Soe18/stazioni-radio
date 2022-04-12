@@ -9,5 +9,5 @@ Ci sarà una schermata di ingresso che darà il benvenuto all'utente e presenter
 Per poter accedere al sito, basta andare al link seguente: https://soe18.github.io/stazioni-radio/
 
 Se si vuole si può anche scannerizzare il seguente QR Code che porta direttamente al sito:
-<img src="https://github.com/Soe18/stazioni-radio/blob/main/qrCodeToHomePage.png" width="250px">
+<img src="https://github.com/Soe18/stazioni-radio/blob/main/qrCodeToHomePage.png" width="50%">
 ![My image](https://github.com/Soe18/stazioni-radio/blob/main/qrCodeToHomePage.png | width=250px)
